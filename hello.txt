@@ -1,4 +1,4 @@
-class HiWorld
+class Hello World
   def self.hello
     puts "Hello World from ruby"
     puts "Hi World"
